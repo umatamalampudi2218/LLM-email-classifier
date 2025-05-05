@@ -1,7 +1,4 @@
-# LLM-email-classifier
----
-
-# LLM Email Classifier & Response System
+# LLM Email Classifier
 
 Welcome! This project demonstrates how to build a real-world, production-style system using **OpenAI’s GPT model** to:
 
