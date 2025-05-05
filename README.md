@@ -1,6 +1,4 @@
 # LLM-email-classifier
-Absolutely — here's the full **written README**, in clear, human language — not as code. This is exactly what you can paste into your GitHub repository.
-
 ---
 
 # LLM Email Classifier & Response System
